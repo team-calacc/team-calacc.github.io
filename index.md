@@ -48,8 +48,9 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-- ✅ This website
-- ✅ Project Planning
+✅ This website
+
+✅ Project Planning
 
 ### Related work
 Unity Engine [Unity](https://unity.com/)
