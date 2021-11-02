@@ -1,3 +1,8 @@
+---
+title: Calacc
+description: 2D top-down game inspired by the popular multiplayer game Among Us
+---
+
 ## Team Calacc
 
 ### The Team
@@ -32,7 +37,17 @@ Christian Wirén
 - Github: c-wiren
 
 ### Our goals
+- Development
+- User testing
+- First prototype with single player and caracter walking
+- Multiplayer
+- Chat
+- Nice map/players
+- Player matchmaking
+- Admin web app
+- Backup development time (if needed)
 
-### Current progress
+### Progress
+✅ This website
 
 ### Related work
