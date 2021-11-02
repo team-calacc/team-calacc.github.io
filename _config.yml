@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 github:
   repository_url: https://github.com/team-calacc/calacc
   is_project_page: true
+description: A game
