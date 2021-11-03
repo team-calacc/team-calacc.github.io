@@ -48,9 +48,7 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-✅ This website
-
-✅ Project Planning
+We have outlined the game details and set initial goals. The team is currently learning the Unity engine.  
 
 ### Related work
 [Unity Engine](https://unity.com/)
