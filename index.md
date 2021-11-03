@@ -4,6 +4,7 @@ description: 2D top-down game inspired by the popular multiplayer game Among Us
 ---
 
 ## Team Calacc
+Calacc is an online, social multiplayer deduction game created in Unity and will run on web, desktop, and mobile. The game has a backend server that can match multiple players together into smaller lobbies of 4-10 players. The specific objectives are to be decided.
 
 ### The Team
 Andreas Andersson
