@@ -4,38 +4,39 @@ description: 2D top-down game inspired by the popular multiplayer game Among Us
 ---
 
 ## Team Calacc
-Calacc is an online, social multiplayer deduction game created in Unity and will run on web, desktop, and mobile. The game has a backend server that can match multiple players together into smaller lobbies of 4-10 players. The specific objectives are to be decided.
+Calacc is an online, social multiplayer deduction game created in Unity and will run on web, desktop, and mobile. The game has a backend server that can match multiple players together into smaller lobbies of 4-10 players. 
 
 ### The Team
 Andreas Andersson
-- Role: Project Manager, Developer
+- Role: Project Manager, Game developer, Designer
 - Afixe94@gmail.com
 - GitHub: Afixe
 
 Carl Enlund
-- Role: Developer, DevOps
+- Role: DevOps, Developer
 - carl.enlund@gmail.com
 - GitHub: carlenlund
 
 Anton Bergåker
-- Role: Architect, Developer
+- Role: Developer, Network Architect
 - anton@bergaker.com
 - GitHub: AntonBergaker
- 
+
 Lisa Bevemyr
-- Role: Developer
+- Role: Game developer, Designer
 - lisa@bevemyr.com
 - GitHub: ljbevemyr
 
 Carolina Gripsborn
-- Role: Developer
+- Role: Game Developer, Designer
 - carolina.gripsborn@gmail.com 
 - GitHub: CarolinaGripsborn
 
 Christian Wirén
-- Role: Developer
+- Role: Game/game-backend Developer, Webpage admin, Sound editor
 - christian@wiren.cc
 - Github: c-wiren
+
 
 ### Our goals
 - Development
@@ -49,7 +50,7 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-We have outlined the game details and set initial goals. The team is currently learning the Unity engine.  
+The basic parts of the game are now implemented. The server is running and we have successfully tested the chat functionality. 
 
 ### Related work
 [Unity Engine](https://unity.com/)
