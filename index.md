@@ -13,7 +13,7 @@ Andreas Andersson
 - GitHub: Afixe
 
 Carl Enlund
-- Role: DevOps, Developer
+- Role: DevOps, Developer, Sound Designer
 - carl.enlund@gmail.com
 - GitHub: carlenlund
 
