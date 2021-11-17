@@ -50,7 +50,7 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-The basic parts of the game are now implemented. The server is running and we have successfully tested the chat functionality. 
+Currently working on the look and feel of the game. Users can now join an online lobby and move around in the same room. Shaders for field of view are implemented. Different player types, items, and tasks have been added to the game.
 
 ### Related work
 [Unity Engine](https://unity.com/)
