@@ -50,7 +50,8 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-Currently working on the look and feel of the game. Users can now join an online lobby and move around in the same room. Shaders for field of view are implemented. Different player types, items, and tasks have been added to the game.
+2021-11-26
+Now most of the gameplay is implemented locally. The server is running on the cloud, and users can join the lobby and start the game. There is a new map design, and we have playable mini-games. Up next is making the game rules work online.
 
 ### Related work
 [Unity Engine](https://unity.com/)
