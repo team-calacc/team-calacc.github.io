@@ -51,6 +51,7 @@ Christian Wirén
 
 ### Progress
 2021-11-26
+
 Now most of the gameplay is implemented locally. The server is running on the cloud, and users can join the lobby and start the game. There is a new map design, and we have playable mini-games. Up next is making the game rules work online.
 
 ### Related work
