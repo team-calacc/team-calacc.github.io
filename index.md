@@ -50,9 +50,9 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-2021-11-26
+2021-12-08
 
-Now most of the gameplay is implemented locally. The server is running on the cloud, and users can join the lobby and start the game. There is a new map design, and we have playable mini-games. Up next is making the game rules work online.
+The game is now soon ready to play. Most of the game is implemented for online multiplayer, there are items, powerups, tasks and more. The full map has been added to the game along with music and sound effects.
 
 ### Related work
 [Unity Engine](https://unity.com/)
