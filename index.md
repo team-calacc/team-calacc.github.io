@@ -52,7 +52,7 @@ Christian Wirén
 ### Progress
 2021-12-08
 
-The game is now soon ready to play. Most of the game is implemented for online multiplayer, there are items, powerups, tasks and more. The full map has been added to the game along with music and sound effects.
+A beta version of the game is now ready as all parts of the game are available in online multiplayer. We will now do user testing to receive feedback for further development. 
 
 ### Related work
 [Unity Engine](https://unity.com/)
