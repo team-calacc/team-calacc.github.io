@@ -50,7 +50,7 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-2021-12-08
+2021-12-15
 
 A beta version of the game is now ready as all parts of the game are available in online multiplayer. We will now do user testing to receive feedback for further development. 
 
