@@ -50,9 +50,9 @@ Christian Wirén
 - Backup development time (if needed)
 
 ### Progress
-2021-12-15
+2022-01-05
 
-A beta version of the game is now ready as all parts of the game are available in online multiplayer. We will now do user testing to receive feedback for further development. 
+The game is fully playable and available to play in a web browser [here](https://team-calacc.github.io/game/). The link is currently not guaranteed to always work as it is updated separately from the server. The latest updates are: A map in the game, joining with invite code, and various changes and bugfixes.
 
 ### Related work
 [Unity Engine](https://unity.com/)
